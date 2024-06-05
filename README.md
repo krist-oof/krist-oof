@@ -1,7 +1,8 @@
 <h1 align="center">Hello, my name is Chris.</h1>
 <h3 align="center">I'm a computer science student who is driven to leave an impact on the world by using my skills for good.</h3>
 
-- 🌱 For fun, I’m currently learning how to program in C# and make mods for the game Stardew Valley using SMAPI.
+- 🔭 I'm working on consolidating what I've learned so far in my Computer Science program by creating a project that showcases what I can do. More details soon.
+- 🌱 For fun, I’m learning how to program in C# and make mods for the game Stardew Valley using SMAPI in my spare time.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
